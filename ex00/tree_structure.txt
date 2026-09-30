@@ -1,0 +1,40 @@
+.:
+total 20
+drwxrwxr-x  5 motasem motasem 4096 Sep 30 23:11 .
+drwxr-x--- 46 motasem motasem 4096 Sep 30 23:10 ..
+drwxrwxr-x  2 motasem motasem 4096 Sep 30 23:11 archives
+drwxrwxr-x  3 motasem motasem 4096 Sep 30 23:12 projects
+drwxrwxr-x  2 motasem motasem 4096 Sep 30 23:11 tools
+
+./archives:
+total 8
+drwxrwxr-x 2 motasem motasem 4096 Sep 30 23:11 .
+drwxrwxr-x 5 motasem motasem 4096 Sep 30 23:11 ..
+
+./projects:
+total 12
+drwxrwxr-x 3 motasem motasem 4096 Sep 30 23:12 .
+drwxrwxr-x 5 motasem motasem 4096 Sep 30 23:11 ..
+drwxrwxr-x 4 motasem motasem 4096 Sep 30 23:12 web
+
+./projects/web:
+total 16
+drwxrwxr-x 4 motasem motasem 4096 Sep 30 23:12 .
+drwxrwxr-x 3 motasem motasem 4096 Sep 30 23:12 ..
+drwxrwxr-x 2 motasem motasem 4096 Sep 30 23:12 backend
+drwxrwxr-x 2 motasem motasem 4096 Sep 30 23:12 frontend
+
+./projects/web/backend:
+total 8
+drwxrwxr-x 2 motasem motasem 4096 Sep 30 23:12 .
+drwxrwxr-x 4 motasem motasem 4096 Sep 30 23:12 ..
+
+./projects/web/frontend:
+total 8
+drwxrwxr-x 2 motasem motasem 4096 Sep 30 23:12 .
+drwxrwxr-x 4 motasem motasem 4096 Sep 30 23:12 ..
+
+./tools:
+total 8
+drwxrwxr-x 2 motasem motasem 4096 Sep 30 23:11 .
+drwxrwxr-x 5 motasem motasem 4096 Sep 30 23:11 ..
