@@ -1,0 +1,18 @@
+commit 40658b48209f4cfa05328db5d70d965a4779b4f4
+Merge: 720839d 5627c90
+Author: Motase Alatawna <mutasim.alatawneh@gmail.com>
+Date:   Wed Sep 30 23:27:13 2026 +0300
+
+    Merge branch 'main' of https://github.com/MutasimAlatawneh/discovery-web-piscine
+
+commit 720839d08b0e02a0ed04bf0bb4f46870cfdd395f
+Author: Motase Alatawna <mutasim.alatawneh@gmail.com>
+Date:   Wed Sep 30 23:25:14 2026 +0300
+
+    first commit
+
+commit 5627c909c5a1305a310f05ac9449b926472e860c
+Author: MutasimAlatawneh <mutasim.alatawneh@gmail.com>
+Date:   Wed Sep 30 14:55:30 2026 +0300
+
+    first commit
