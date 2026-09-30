@@ -1,0 +1,14 @@
+Complete Edit-Add-Commit-Push Workflow:
+
+1. Edit / Create files:
+   - Authored README.md with comprehensive project documentation.
+   - Generated and saved ed25519 public key to id_ed25519_pub.txt.
+
+2. Stage changes:
+   git add README.md git_workflow.txt id_ed25519_pub.txt
+
+3. Commit changes:
+   git commit -m "docs: add README, workflow documentation, and bonus SSH public key"
+
+4. Push to remote repository via SSH:
+   git push origin main
