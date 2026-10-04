@@ -1,5 +1,0 @@
-commit 5627c909c5a1305a310f05ac9449b926472e860c
-Author: MutasimAlatawneh <mutasim.alatawneh@gmail.com>
-Date:   Wed Sep 30 14:55:30 2026 +0300
-
-    first commit
